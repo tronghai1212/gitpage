@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 Mar 2021 09:18:09 at https://grandetest.com/theme/edumy-html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://grandetest.com/theme/edumy-html/index.html -O1 "C:\Users\dungh\OneDrive\Desktop\themenew" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:20:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://grandetest.com/theme/edumy-html/page-course-single-v3.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://grandetest.com/theme/edumy-html/page-instructors.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Service Unavailable" (503) at link https://grandetest.com/theme/edumy-html/page-instructors-single.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Service Unavailable" (503) at link https://grandetest.com/theme/edumy-html/page-event.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Service Unavailable" (503) at link https://grandetest.com/theme/edumy-html/page-event-single.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-shop.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-shop-single.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-shop-cart.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-shop-checkout.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-shop-order.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-dashboard.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-my-courses.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-my-order.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-my-message.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-my-review.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (520) at link https://grandetest.com/theme/edumy-html/page-my-bookmarks.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (520) at link https://grandetest.com/theme/edumy-html/page-my-listing.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-my-setting.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-about.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-gallery.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-faq.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-login.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-register.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-pricing.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:20:26	Error: 	"Unknown error" (521) at link https://grandetest.com/theme/edumy-html/page-error.html (from https://grandetest.com/theme/edumy-html/index.html)
+09:21:19	Error: 	"Not Found" (404) at link https://grandetest.com/theme/edumy-html/css/images/ui-icons_444444_256x240.png (from https://grandetest.com/theme/edumy-html/css/jquery-ui.min.css)
+09:21:19	Error: 	"Not Found" (404) at link https://grandetest.com/theme/edumy-html/css/images/ui-icons_777777_256x240.png (from https://grandetest.com/theme/edumy-html/css/jquery-ui.min.css)
+09:21:19	Error: 	"Not Found" (404) at link https://grandetest.com/theme/edumy-html/css/images/ui-icons_555555_256x240.png (from https://grandetest.com/theme/edumy-html/css/jquery-ui.min.css)
+09:21:19	Error: 	"Not Found" (404) at link https://grandetest.com/theme/edumy-html/css/images/ui-icons_ffffff_256x240.png (from https://grandetest.com/theme/edumy-html/css/jquery-ui.min.css)
+09:21:19	Error: 	"Not Found" (404) at link https://grandetest.com/theme/edumy-html/css/images/ui-icons_777620_256x240.png (from https://grandetest.com/theme/edumy-html/css/jquery-ui.min.css)
+09:21:19	Error: 	"Not Found" (404) at link https://grandetest.com/theme/edumy-html/css/images/ui-icons_cc0000_256x240.png (from https://grandetest.com/theme/edumy-html/css/jquery-ui.min.css)
+09:21:20	Error: 	"Not Found" (404) at link https://grandetest.com/theme/edumy-html/css/Flaticon.svg (from https://grandetest.com/theme/edumy-html/css/flaticon.css)
+09:21:20	Error: 	"Not Found" (404) at link https://grandetest.com/theme/edumy-html/css/owl.video.play.png (from https://grandetest.com/theme/edumy-html/css/slider.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 11 seconds : 259 links scanned, 225 files written (12519615 bytes overall) [9902246 bytes received at 51844 bytes/sec], 4207054 bytes transferred using HTTP compression in 84 files, ratio 28%, 43.1 requests per connection
+(31 errors, 2 warnings, 0 messages)
